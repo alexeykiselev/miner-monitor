@@ -1,0 +1,1 @@
+module "miner-monitor"
